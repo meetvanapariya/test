@@ -1,0 +1,15 @@
+.sizeH{
+	height: 100px;
+}
+.sizeF{
+	position: fixed;
+	width: 100%;
+	height: 40px;
+	bottom: 0px;
+}
+.fontsA{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
